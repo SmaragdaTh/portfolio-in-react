@@ -13,6 +13,9 @@
   .pr-space {
     padding-right: 20px;
   }
+  .px-space {
+    padding-inline: 20px;
+  }
 }
 
 li.active:before {
